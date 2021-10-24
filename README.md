@@ -36,20 +36,39 @@ And then the undersampling ClusterCentroids algorithm.
  
 Using these algorithms, the dataset were resampled, the count of the target classes were viewed, a logistic regression classifier were trained, the balanced accuracy score, generate a confusion matrix, and generate a classification report were calculated.
 
-balanced accuracy scores and the precision and recall scores of all six machine learning models.
+balanced accuracy scores  
+Naive Random Oversampling![image](https://user-images.githubusercontent.com/68247343/138608058-322834bc-7ae6-4bfb-b294-1f1bbb30c5e4.png)
+
+SMOTE Oversampling![image](https://user-images.githubusercontent.com/68247343/138608064-d0385999-7100-45c9-aa5d-70000a6a17c9.png)
+
+Undersampling![image](https://user-images.githubusercontent.com/68247343/138608071-0c21cf8a-af1a-4d6b-99bf-bcb03466dd61.png)
+
+the precision and recall scores of all six machine learning models
+Naive Random Oversampling![image](https://user-images.githubusercontent.com/68247343/138608120-0d88e5b2-bd31-48d7-8f72-1a6c7962bdba.png)
+
+SMOTE Oversampling![image](https://user-images.githubusercontent.com/68247343/138608125-fd484dc8-cb9c-4425-812e-59e9724dde7c.png)
+
+Undersampling![image](https://user-images.githubusercontent.com/68247343/138608128-5a2f0204-52df-49b6-9089-b8922a8b6efb.png)
+
+
 ### `- The SMOTEENN algorithm to Predict Credit Risk`
+The result of the SMOTEENN algorithm can be found in the [Credit_Risk_Resampling_Models](./credit_risk_resampling.ipynb) file.
 
 Using your knowledge of the imbalanced-learn and scikit-learn libraries, you’ll use a combinatorial approach of over- and undersampling with the SMOTEENN algorithm to determine if the results from the combinatorial approach are better at predicting credit risk than the resampling algorithms from Deliverable 1. Using the SMOTEENN algorithm, you’ll resample the dataset, view the count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
 
-The result of the SMOTEENN algorithm can be found in the [Credit_Risk_Resampling_Models](./credit_risk_resampling.ipynb) file.
-
 balanced accuracy scores and the precision and recall scores of all six machine learning models.
+Combination (Over and Under) Sampling![image](https://user-images.githubusercontent.com/68247343/138608150-766efd38-f302-4bca-bc64-0fcb6eae9173.png)
+
 ### `- Ensemble Classifiers to Predict Credit Risk`
+The result of the Ensemble Classifier algorithm can be found in the [Credit_Risk_Ensemble_Classifiers](./credit_risk_ensemble.ipynb) file
+
 Using your knowledge of the imblearn.ensemble library, you’ll train and compare two different ensemble classifiers, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk and evaluate each model. Using both algorithms, you’ll resample the dataset, view the count of the target classes, train the ensemble classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report
 
-The result of the SMOTEENN algorithm can be found in the [Credit_Risk_Ensemble_Classifiers](./credit_risk_ensemble.ipynb) file.
-
 balanced accuracy scores and the precision and recall scores of all six machine learning models.
+Balanced Random Forest Classifier![image](https://user-images.githubusercontent.com/68247343/138608197-c506d846-22a7-4279-9a4d-24fce14b20bb.png)
+
+Easy Ensemble AdaBoost Classifier![image](https://user-images.githubusercontent.com/68247343/138608208-7faa7a63-1733-4843-ae3b-742adfe6e41c.png)
+
 ## `The Credit Risk Analysis Summary`
 
 According to the result of the Bias ...
