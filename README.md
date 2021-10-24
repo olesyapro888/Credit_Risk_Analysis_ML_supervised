@@ -40,19 +40,21 @@ balanced accuracy scores
 Naive Random Oversampling
 ![image](https://user-images.githubusercontent.com/68247343/138608286-fec91af2-dffb-4f42-bc26-8e851e1e15c9.png)
 
-SMOTE Oversampling 
+SMOTE Oversampling
 ![image](https://user-images.githubusercontent.com/68247343/138608289-90afceb8-fe34-4d27-ae56-02cb9f0c54d8.png)
 
 Undersampling
 ![image](https://user-images.githubusercontent.com/68247343/138608294-40323803-429b-4bfc-b52d-424727e9f29f.png)
 
 the precision and recall scores of all six machine learning models
-Naive Random Oversampling![image](https://user-images.githubusercontent.com/68247343/138608120-0d88e5b2-bd31-48d7-8f72-1a6c7962bdba.png)
+Naive Random Oversampling
+![image](https://user-images.githubusercontent.com/68247343/138608650-a860fcdb-b1a8-43d2-b0ee-69254f4a9310.png)
 
-SMOTE Oversampling![image](https://user-images.githubusercontent.com/68247343/138608125-fd484dc8-cb9c-4425-812e-59e9724dde7c.png)
+SMOTE Oversampling
+![image](https://user-images.githubusercontent.com/68247343/138608658-f6087ba0-3d9d-4792-b488-3852b49c0eb5.png)
 
-Undersampling![image](https://user-images.githubusercontent.com/68247343/138608128-5a2f0204-52df-49b6-9089-b8922a8b6efb.png)
-
+Undersampling
+![image](https://user-images.githubusercontent.com/68247343/138608661-6fa9e49d-b694-42e2-9a66-6c6b3d89b5f4.png)
 
 ### `- The SMOTEENN algorithm to Predict Credit Risk`
 The result of the SMOTEENN algorithm can be found in the [Credit_Risk_Resampling_Models](./credit_risk_resampling.ipynb) file.
@@ -72,7 +74,7 @@ balanced accuracy scores and the precision and recall scores of all six machine 
 Balanced Random Forest Classifier
 ![image](https://user-images.githubusercontent.com/68247343/138608322-585ff9af-ef94-4b50-86db-552e14b55655.png)
 
-Easy Ensemble AdaBoost Classifier!
+Easy Ensemble AdaBoost Classifier
 ![image](https://user-images.githubusercontent.com/68247343/138608328-4712f2c0-52b2-45f9-b3eb-065de7aaf881.png)
 
 ## `The Credit Risk Analysis Summary`
