@@ -38,13 +38,13 @@ Using these algorithms, the dataset were resampled, the count of the target clas
 
 balanced accuracy scores  
 Naive Random Oversampling
-![image](https://user-images.githubusercontent.com/68247343/138608286-fec91af2-dffb-4f42-bc26-8e851e1e15c9.png)
+![image](https://user-images.githubusercontent.com/68247343/138608730-0493ed00-0cb2-4602-bc3e-660910193598.png)
 
 SMOTE Oversampling
-![image](https://user-images.githubusercontent.com/68247343/138608289-90afceb8-fe34-4d27-ae56-02cb9f0c54d8.png)
+![image](https://user-images.githubusercontent.com/68247343/138608737-7276333c-5d5f-4947-a8f0-ca87555beb25.png)
 
 Undersampling
-![image](https://user-images.githubusercontent.com/68247343/138608294-40323803-429b-4bfc-b52d-424727e9f29f.png)
+![image](https://user-images.githubusercontent.com/68247343/138608743-6ba0a1cd-f9c8-4514-887d-906e4cc31592.png)
 
 the precision and recall scores of all six machine learning models
 Naive Random Oversampling
