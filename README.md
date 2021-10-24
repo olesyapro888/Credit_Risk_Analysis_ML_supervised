@@ -26,10 +26,15 @@ The analysis is created using next software: Jupyter-notebook 6.3.0, Python 3.8.
 ## `The Credit Risk Analysis Result`
 ### `- Resampling Models to Predict Credit Risk`	
 
-Using 
-evaluate three machine learning models by using resampling to determine which is better at predicting credit risk. First, you’ll use the oversampling RandomOverSampler and SMOTE algorithms, and then you’ll use the undersampling ClusterCentroids algorithm. Using these algorithms, you’ll resample the dataset, view the count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report 
-
 The result of Resampling Models can be found in the [Credit_Risk_Resampling](./credit_risk_resampling.ipynb) file.
+
+According the results of three machine learning models as Random Oversampling, SMOTE Oversampling, Undersampling it may be determined as the ______________________ltk ______________________is better to predic credit risk
+
+Firstly, the oversampling RandomOverSampler and SMOTE algorithms were used
+ 
+And then the undersampling ClusterCentroids algorithm. 
+ 
+Using these algorithms, the dataset were resampled, the count of the target classes were viewed, a logistic regression classifier were trained, the balanced accuracy score, generate a confusion matrix, and generate a classification report were calculated.
 
 balanced accuracy scores and the precision and recall scores of all six machine learning models.
 ### `- The SMOTEENN algorithm to Predict Credit Risk`
