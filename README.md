@@ -87,6 +87,7 @@ Easy Ensemble AdaBoost Classifier model achieved an accuracy score of 93.1%
 ![image](https://user-images.githubusercontent.com/68247343/138608328-4712f2c0-52b2-45f9-b3eb-065de7aaf881.png)
 
 The metrics of the minority class (precision, recall, and F1 score) of the Easy Ensemble AdaBoost Classifier are improved.
+So, the Easy Ensemble AdaBoost Classifier can be regarded as the best model to Predict Credit Risk.
 
 ## `The Credit Risk Analysis Summary`
 
@@ -97,3 +98,4 @@ According the results of machine learning models as Random Oversampling, SMOTE O
 Additionally, resampling with SMOTEENN did not work miracles, but some of the metrics show an improvement over undersampling.
 
 The metrics of the minority class (precision, recall, and F1 score) of the Easy Ensemble AdaBoost Classifier are improved.
+So, the Easy Ensemble AdaBoost Classifier can be regarded as the best model to Predict Credit Risk.
