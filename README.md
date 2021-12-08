@@ -1,4 +1,4 @@
-# Credit Risk Analysis. Project 17 of the UofT.
+# Credit Risk Analysis. The project 17 of the University of Toronto.
 ## `-Contents-`	
 	
 - [Overview of the Credit Risk Analysis](#Overview-of-the-Credit-Risk-Analysis)	
@@ -8,9 +8,10 @@
   - [The SMOTEENN algorithm to Predict Credit Risk](#--The-SMOTEENN-algorithm-to-Predict-Credit-Risk)
   - [Ensemble Classifiers to Predict Credit Risk](#--Ensemble-Classifiers-to-Predict-Credit-Risk)
 - [The Credit Risk Analysis Summary](#The-Credit-Risk-Analysis-Summary)
+
 ## `Overview of the Credit Risk Analysis`	
 	
-The purpose for the project is to employ different techniques to train and evaluate models with unbalanced classes. Also, to evaluate the performance of the models and make a written recommendation on whether they should be used to predict credit risk.
+The purpose of the project is to employ different techniques to train and evaluate models with unbalanced classes. Also, to evaluate the performance of the models and make a written recommendation on whether they should be used to predict credit risk.
 
 The analysis consists of three technical analysis deliverables and a written report as the following: 
 
