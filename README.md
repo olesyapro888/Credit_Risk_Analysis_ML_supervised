@@ -1,4 +1,5 @@
-# Credit Risk Analysis. The project 17 of the University of Toronto.
+# Credit card risk prediction and analysis using supervised Machine learning with imbalanced-learn and scikit-learn Python libraries.
+
 ## `-Contents-`	
 	
 - [Overview of the Credit Risk Analysis](#Overview-of-the-Credit-Risk-Analysis)	
